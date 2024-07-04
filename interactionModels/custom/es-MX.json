@@ -1,0 +1,85 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hola",
+            "como estás",
+            "di hola mundo",
+            "di hola",
+            "hola mundo"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "BienvenidoIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "ComidaTipicaIntent",
+          "samples": [
+            "cual es la comida tipica de tailandia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "DescripcionIntent",
+          "samples": [
+            "dato curioso de tailandia",
+            "describeme de tailandia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "LugarTuristicoIntent",
+          "samples": [
+            "dame lugares turisticos de tailandia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicaIntent",
+          "samples": [
+            "musica tipica de tailandia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "PersonajesIntent",
+          "samples": [
+            "que personajes importantes existen en tailandia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TrajeTipicoInten",
+          "samples": [
+            "ropas tipicas de tailandia"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "pais tailandia"
+    }
+  }
+}
